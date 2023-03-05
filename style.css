@@ -6,7 +6,8 @@ body {
     font-family: 'Inter', sans-serif;
     font-family: 'Playfair Display', serif;
     text-align: center;
-    margin: 0;   
+    margin: 0; 
+    
 }
 
 table {
@@ -67,7 +68,8 @@ img {
 
 li {
     display: block;
-    text-align: center;   
+    text-align: center;
+    padding-left: 0;   
 }
 
 .paticka {
@@ -79,7 +81,6 @@ li {
 
 section {
     padding: 25px 15%;
-
 }
 
 .b {
@@ -97,10 +98,9 @@ a {
     background-color: #F4A460;
 }
 
-.menu {
-    margin-top: 30px;
-    margin-right: 50px;
-}
+
+
+
 
 
 
